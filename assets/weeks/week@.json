@@ -1,0 +1,48 @@
+{
+	"storyName": "Save Them",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"blue balled",
+			"bf@",
+			[
+				126,
+				153,
+				213
+			]
+		],
+		[
+			"gunshot",
+			"picop",
+			[
+				126,
+				153,
+				213
+			]
+		],
+		[
+			"last spooktober",
+			"scary",
+			[
+				126,
+				153,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week@"
+}

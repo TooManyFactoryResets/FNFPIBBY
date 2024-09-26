@@ -1,0 +1,30 @@
+{
+	"storyName": "Failure",
+	"hideFreeplay": true,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bad end",
+			"bf@",
+			[
+				126,
+				153,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekLoser"
+}

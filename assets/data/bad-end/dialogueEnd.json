@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well, that was fun.",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "It's a shame your world is coming to an end.",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Maybe...",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Someone will come help you someday.",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "It's a bit of a false hope, ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "but maybe, just maybe... Someone will come.",
+			"boxState": "normal",
+			"speed": 0.053,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Hopefully, they'll be just like you.",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "nothing"
+		}
+	]
+}

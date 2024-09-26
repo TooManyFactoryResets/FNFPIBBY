@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Well now.",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Something's calling you back...",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "After you failed to fight it off...",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "Could this be your last chance?",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "No, of course not. It just wants a challenge again.",
+			"boxState": "normal",
+			"speed": 0.053,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "It really is just like YOU.",
+			"boxState": "normal",
+			"speed": 0.092,
+			"portrait": "nothing"
+		}
+	]
+}

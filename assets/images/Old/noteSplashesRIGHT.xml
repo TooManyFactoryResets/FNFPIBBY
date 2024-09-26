@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="noteSplashesRIGHT.png">
+<SubTexture name="noteSplashes 0000" x="293" y="529" width="206" height="215" frameX="0" frameY="0" frameWidth="206" frameHeight="215" />
+<SubTexture name="noteSplashes 0001" x="0" y="773" width="239" height="244" frameX="0" frameY="0" frameWidth="239" frameHeight="244" />
+<SubTexture name="noteSplashes 0002" x="239" y="773" width="302" height="319" frameX="0" frameY="0" frameWidth="302" frameHeight="319" />
+</TextureAtlas>
